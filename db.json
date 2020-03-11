@@ -1,0 +1,39 @@
+{
+    "Colour": "Aurora Blue",
+    "ModelCode": "B32P6PDS4",
+    "ModelDescription": "BT-50 B32P DUAL CAB UTILITY 6M XTR 4X4",
+    "ModelGroup": "BT-50",
+    "ProductionYear": null,
+    "RecallActivities": [
+        {
+            "Closed": true,
+            "CompletedDate": "/Date(1380808800000+1000)/",
+            "Critical": false,
+            "Description": "BT-50 (UP) Dual Cab - Rear Seatback Latch Recall",
+            "FurtherAction": false,
+            "PendingInitiationDate": null,
+            "PRA": "2012/13331",
+            "RemedyText": "Mazda will write to owners of affected vehicles. Until the safety recall repair is completed, the rear seatback should not be occupied by passengers unless you have first confirmed that the seatback is secure and fully engaged. You can do this by gripping the top of the seatback nearest the centre and pulling firmly towards the front of the vehicle. If the seatback moves forwards, it is not fully engaged and the seat should not be occupied while the vehicle is in motion.",
+            "RiskTe xt": "An incorrectly engaged rear seatback latch may cause the rear seatback to fall forward and may pose a safety hazard to occupants in the event of a collision.",
+            "ServiceActivityCode": "R201201",
+            "SummaryText": "The rear seatback latch fitted to affected vehicles may not engage correctly.",
+            "VehicleStatus": "Vehicle Repaired"
+        },
+        {
+            "Closed": false,
+            "CompletedDate": null,
+            "Critical": false,
+            "Description": "BT-50 (UP) Door Latch Recall ",
+            "FurtherAction": false,
+            "PendingInitiationDate": "/Date(1559138400000+1000)/",
+            "PRA": "2018/17165",
+            "RemedyText": "Owners of affected vehicles will be contacted by Mazda Australia. Consumers will be advised to present their vehicle to their nearest or preferred Mazda dealer for revised door latches to be installed at no charge once parts are available.",
+            "RiskText": "The broken locating tab may prevent the door from closing, or in the circumstance that it is able to be closed, the door may unlatch while driving, which could cause an accident or injury.",
+            "ServiceActivityCode": "R201814",
+            "SummaryText": "A locating tab inside one or more of the door latches may break, preventing the door from latching.",
+            "VehicleStatus": "Pending"
+        }
+    ],
+    "Rego": "1DYC318",
+    "Vin": "MM0UP0YF100100528"
+}
